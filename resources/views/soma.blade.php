@@ -33,7 +33,7 @@
                         <label for="segundoValor" class="form-label">Segundo valor</label>
                         <input type="number" class="form-control" id="segundoValor">
                     </div>
-                    <button type="submit" class="btn btn-primary">Submit</button>
+                    <button type="soma" class="btn btn-primary">Somar</button>
                 </form>
             </div>
             
