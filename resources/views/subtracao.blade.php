@@ -25,7 +25,7 @@
             
             <div class="row">
                 
-                    <form method="POST" action= "{{ route('somar') }}">
+                    <form method="POST" action= "{{ route('subtrair') }}">
                     @csrf   
                     {{-- mb : margin-bottom --}}
                         <div class="mb-3 mt-2">
